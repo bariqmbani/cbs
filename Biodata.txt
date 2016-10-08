@@ -5,8 +5,9 @@ TTL	: Cimahi, 23 Agustus 1997
 JK	: Laki-laki
 Asal	: Cimahi
 
-Nama	: Muhammad Jordi
-NPM	: 140810160040
 
 Nama	: Malik Zulfikar Gantina
 NPM	: 140810160036
+TTL	: Bandung, 11 November 1998
+JK	: Laki-laki
+Asal	: Bandung
