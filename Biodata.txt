@@ -5,9 +5,6 @@ TTL	: Cimahi, 23 Agustus 1997
 JK	: Laki-laki
 Asal	: Cimahi
 
-Nama	: Bariq Mbani
-NPM	: 140810160064
-
 Nama	: Muhammad Jordi
 NPM	: 140810160040
 
